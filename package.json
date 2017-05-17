@@ -1,6 +1,6 @@
 {
   "name": "among",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Find the substring / element among $start and $end argument.",
   "main": "index.js",
   "author": "Bjarne Oeverli",
